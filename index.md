@@ -45,9 +45,9 @@ sections:
  #       text: Some not-so long text here.
  #       icon: bi-emoji-sunglasses-fill
 
-  - type: portfolio.html
+  - type: deliverables.html
     # this section has always ID 'portfolio'
-    #section_id: portfolio
+    section_id: deliverables
     #background_style: bg-dark
     deliverables:
       - title: News
@@ -56,11 +56,11 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
+        url: '/deliverables'
       - title: Publications
         text: Publications about the project
         icon: 2.jpg
-        url: '#'
+        url: '/deliverables'
      # - title: Project 3
      #   text: This is a very short project description.
      #   icon: 3.jpg
