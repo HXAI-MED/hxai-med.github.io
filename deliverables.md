@@ -22,3 +22,4 @@ sections:
   section_id: publications
   title: Publications
   text: >+
+---
