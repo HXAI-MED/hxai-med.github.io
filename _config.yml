@@ -2,7 +2,7 @@
 title: Frontier for the Future programme
 description: Holistic and Human-centred neural-cognitive learning and reasoning to enHance eXplainable Artificial Intelligence in clinical diagnostics from MEDical imaging # this means to ignore newlines until "baseurl:"
 repository: HXAI-MED/hxai-med #vvalchev/creative-theme-jekyll-new
-baseurl: "main/" #"/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
+baseurl: "" #"/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 author: Copyright &copy; 2026 # - Start Bootstrap
 lang: en_US
