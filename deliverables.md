@@ -14,8 +14,6 @@ sections:
   section_id: news
   title: News about the project
   text: >+
-    # There is a quick reference and showscase of Markdown Syntax Here:
-
     * [Funding Award](https://www.dcu.ie/computing/news/2025/feb/dr-alessandra-mileo-awarded-research-ireland-frontiers-future-funding).
 
 - type: paragraph.html
