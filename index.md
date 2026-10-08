@@ -17,7 +17,7 @@ sections:
     text: The project proposes to develop transparent, trustworthy artificial intelligence for diagnostic imaging by combining deep learning with human-like symbolic reasoning. Focused initially on Cardiac Magnetic Resonance (CMR) data for diagnosing cardiomyopathies, the project replaces "black-box" models with a hybrid neuro-symbolic framework that reveals the cause-and-effect logic, context, and semantic rules behind AI predictions.
    
   - type: members.html
-    section_id: members
+    section_id: people
     title: People
     background_style: bg-info text-white
     members:
