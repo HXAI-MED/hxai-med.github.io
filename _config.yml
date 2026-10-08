@@ -1,5 +1,5 @@
 # Site settings
-title: Frontier for the Future programme
+title: Frontiers for the Future programme
 description: Holistic and Human-centred neural-cognitive learning and reasoning to enHance eXplainable Artificial Intelligence in clinical diagnostics from MEDical imaging # this means to ignore newlines until "baseurl:"
 repository: HXAI-MED/hxai-med #vvalchev/creative-theme-jekyll-new
 baseurl: "" #"/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
