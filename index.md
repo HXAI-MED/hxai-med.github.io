@@ -45,22 +45,22 @@ sections:
  #       text: Some not-so long text here.
  #       icon: bi-emoji-sunglasses-fill
 
-  - type: deliverables.html
-    # this section has always ID 'portfolio'
-    section_id: deliverables
-    #background_style: bg-dark
-    deliverables:
-      - title: News
-        text: News about the project
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '/deliverables'
-      - title: Publications
-        text: Publications about the project
-        icon: 2.jpg
-        url: '/deliverables'
+ # - type: deliverables.html
+ #   # this section has always ID 'portfolio'
+ #   section_id: deliverables
+ #   #background_style: bg-dark
+ #   deliverables:
+ #     - title: News
+ #       text: News about the project
+ #       # the images are located in:
+ #       # img/portfolio/fullsize
+ #       # img/portfolio/thumbnails
+ #       icon: 1.jpg
+ #       url: '/deliverables'
+ #     - title: Publications
+ #       text: Publications about the project
+ #       icon: 2.jpg
+ #       url: '/deliverables'
      # - title: Project 3
      #   text: This is a very short project description.
      #   icon: 3.jpg
@@ -86,19 +86,19 @@ sections:
  #       url: https://startbootstrap.com/themes/creative/
  #       class: btn-light
 
-  - type: members.html
-    section_id: members
-    title: Our Team
+  - type: people.html
+    section_id: people
+    title: People
     background_style: bg-info text-white
     members:
       - title: Dr Alessandra Mileo
         text: Principal Investigator
         image: assets/img/members/alessandra.jpg
-        url: '#'
+        url: 'https://www.dcu.ie/researchsupport/research-profile?person_id=14891'
       - title: Dr Eric Ferreira dos Santos
         text: Postdoc Researcher
         image: assets/img/members/eric.jpg
-        url: '#'
+        url: 'https://ericferreiras.github.io/'
       - title: Muhammad Turab Muslim Bajeer
         text: PhD Researcher
         image: assets/img/members/turab.jpg
@@ -118,7 +118,7 @@ sections:
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: Timeline
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
