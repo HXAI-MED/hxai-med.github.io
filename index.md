@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Frontier for the Future Programme - HXAI-MED
+  title: Frontiers for the Future Programme - HXAI-MED
   text: >
     Holistic and Human-centred neural-cognitive learning and reasoning to enHance eXplainable Artificial Intelligence in clinical diagnostics from MEDical imaging
   action: # action button is optional
@@ -57,7 +57,7 @@ sections:
           2024-2025
           **Proposal Accepted**
         text: >-
-          The project proposal was accepted by the Frontier for the Future programme
+          The project proposal was accepted by the Frontiers for the Future programme
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           2026
